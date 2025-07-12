@@ -4,8 +4,8 @@ Welcome to the official repository for **Deal Duel**, the smart and simple unit 
 
 This repository hosts:
 
-- 📄 [`app_info.md`](app_info.md) – Overview of the app, features, and key functionality.
-- 📄 [`app_policy.md`](app_policy.md) – App privacy policy and data usage statement.
+- 📄 [`info.md`](info.md) – Overview of the app, features, and key functionality.
+- 📄 [`policy.md`](policy.md) – App privacy policy and data usage statement.
 
 ## About the App
 
