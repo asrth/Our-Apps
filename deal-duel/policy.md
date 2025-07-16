@@ -22,3 +22,9 @@ We may occasionally release updates to improve performance or add new features. 
 ---
 
 Deal Duel is committed to privacy, accessibility, and a clutter-free user experience.
+
+## Need Help?
+
+If you have any questions, feedback, or issues, feel free to reach out.  
+📩 **Support Email:** [tld.noreply@gmail.com](mailto:tld.noreply@gmail.com)  
+We’re happy to help!

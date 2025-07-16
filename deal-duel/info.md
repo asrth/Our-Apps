@@ -17,3 +17,9 @@ Deal Duel is a clean, efficient app designed to help you compare product prices 
 - **Fast, No Sign-Up, No Ads**: Just input and compare.
 
 Deal Duel is designed for real-world use — with simplicity and customization at its core.
+
+## Need Help?
+
+If you have any questions, feedback, or issues, feel free to reach out.  
+📩 **Support Email:** [tld.noreply@gmail.com](mailto:tld.noreply@gmail.com)  
+We’re happy to help!
