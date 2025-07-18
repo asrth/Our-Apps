@@ -1,21 +1,28 @@
-# Deal Duel – App Info & Policy
+# App Info & Policy
 
-Welcome to the official repository for **Deal Duel**, the smart and simple unit price comparison app.
+Welcome to the official repository for our minimalist mobile apps designed with privacy and simplicity in mind.
 
-This repository hosts:
+## 🛍️ Deal Duel
+**Let the best deal win.**
+
+Smart and simple unit price comparison app that helps you find the best value by comparing price per unit across multiple product sizes.
 
 - 📄 [`info.md`](deal-duel/info.md) – Overview of the app, features, and key functionality.
 - 📄 [`policy.md`](deal-duel/policy.md) – App privacy policy and data usage statement.
 
-## About the App
+## 📋 Swiptic
+**Focus on today, get things done.**
 
-**Deal Duel** helps users find the best value by comparing price per unit across multiple product sizes. Designed for speed, accessibility, and clarity — no ads, no sign-up, and full left/right-hand UI support.
+Minimalist to-do app that helps you get things done without the clutter. With a thoughtful 5-task daily limit and intuitive swipe gestures, Swiptic keeps you focused on what matters most.
 
-> Let the best deal win.
+- 📄 [`info.md`](swiptic/info.md) – Overview of the app, features, and key functionality.
+- 📄 [`policy.md`](swiptic/policy.md) – App privacy policy and data usage statement.
 
 ---
 
-Created with ❤️ to help shoppers make smarter decisions.
+Both apps are designed for speed, accessibility, and clarity — no ads, no sign-up, and full privacy protection.
+
+Created with ❤️ to help people make smarter decisions and build better habits.
 
 ---
 
