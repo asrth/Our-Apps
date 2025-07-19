@@ -29,7 +29,6 @@ Swiptic does **not** collect, store, or share any personal data. All tasks and s
 We may occasionally release updates to improve performance, fix bugs, or add new features. Updates will never:
 - Change your existing preferences
 - Delete your tasks
-- Add tracking or advertising
 
 ---
 
