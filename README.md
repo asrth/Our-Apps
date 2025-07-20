@@ -7,6 +7,8 @@ Welcome to the official repository for our minimalist mobile apps designed with 
 
 Smart and simple unit price comparison app that helps you find the best value by comparing price per unit across multiple product sizes.
 
+📱 [Download on the App Store](https://apps.apple.com/us/app/deal-duel/id6748555216)
+
 - 📄 [`info.md`](deal-duel/info.md) – Overview of the app, features, and key functionality.
 - 📄 [`policy.md`](deal-duel/policy.md) – App privacy policy and data usage statement.
 

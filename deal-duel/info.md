@@ -18,6 +18,10 @@ Deal Duel is a clean, efficient app designed to help you compare product prices 
 
 Deal Duel is designed for real-world use — with simplicity and customization at its core.
 
+## 📱 Get Deal Duel
+
+[Download on the App Store](https://apps.apple.com/us/app/deal-duel/id6748555216)
+
 ## Need Help?
 
 If you have any questions, feedback, or issues, feel free to reach out.  
