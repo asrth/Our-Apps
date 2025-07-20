@@ -1,4 +1,4 @@
-# App Info & Policy
+# Our Apps
 
 Welcome to the official repository for our minimalist mobile apps designed with privacy and simplicity in mind.
 
