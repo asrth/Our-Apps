@@ -20,6 +20,14 @@ Swiptic is a minimalist to-do app that helps you get things done without the clu
 
 Swiptic is designed for simplicity — helping you build better productivity habits one day at a time.
 
+## 📱 Get Swiptic
+
+**Coming to App Store Soon!** 🍎  
+We're excited to bring Swiptic to iOS users very soon. Our team is carefully polishing every detail to ensure the smoothest experience for managing your daily tasks. The wait will be worth it!
+
+**Coming to Google Play Store Soon!** 🤖  
+Android users, we haven't forgotten about you! We're working diligently to launch Swiptic on the Google Play Store. Get ready to transform your productivity with simple swipes and focused task management.
+
 ## Need Help?
 
 If you have any questions, feedback, or issues, feel free to reach out.  

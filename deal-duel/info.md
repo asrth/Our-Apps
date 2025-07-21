@@ -22,6 +22,9 @@ Deal Duel is designed for real-world use — with simplicity and customization a
 
 [Download on the App Store](https://apps.apple.com/us/app/deal-duel/id6748555216)
 
+**Coming to Google Play Store Soon!** 🚀  
+We're working hard to bring Deal Duel to Android users. Our team is putting the finishing touches on the Google Play Store version to ensure you get the same great experience for finding the best deals. Stay tuned — it won't be long now!
+
 ## Need Help?
 
 If you have any questions, feedback, or issues, feel free to reach out.  
