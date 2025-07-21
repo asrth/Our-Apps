@@ -17,6 +17,8 @@ Smart and simple unit price comparison app that helps you find the best value by
 
 Minimalist to-do app that helps you get things done without the clutter. With a thoughtful 5-task daily limit and intuitive swipe gestures, Swiptic keeps you focused on what matters most.
 
+📱 [Download on the App Store](https://apps.apple.com/us/app/swiptic/id6748831449)
+
 - 📄 [`info.md`](swiptic/info.md) – Overview of the app, features, and key functionality.
 - 📄 [`policy.md`](swiptic/policy.md) – App privacy policy and data usage statement.
 
