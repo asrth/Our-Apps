@@ -22,11 +22,10 @@ Swiptic is designed for simplicity — helping you build better productivity hab
 
 ## 📱 Get Swiptic
 
-**Coming to App Store Soon!** 🍎  
-We're excited to bring Swiptic to iOS users very soon. Our team is carefully polishing every detail to ensure the smoothest experience for managing your daily tasks. The wait will be worth it!
+[Download on the App Store](https://apps.apple.com/us/app/swiptic/id6748831449)
 
-**Coming to Google Play Store Soon!** 🤖  
-Android users, we haven't forgotten about you! We're working diligently to launch Swiptic on the Google Play Store. Get ready to transform your productivity with simple swipes and focused task management.
+**Coming to Google Play Store Soon!** 🚀  
+We're working hard to bring Swiptic to Android users. Our team is putting the finishing touches on the Google Play Store version to ensure you get the same great experience for focused task management. Stay tuned — it won't be long now!
 
 ## Need Help?
 
