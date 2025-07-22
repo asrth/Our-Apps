@@ -34,4 +34,4 @@ Created with ❤️ to help people make smarter decisions and build better habit
 
 If you have any questions, feedback, or issues, feel free to reach out.  
 📩 **Support Email:** [tld.noreply@gmail.com](mailto:tld.noreply@gmail.com)  
-We’re happy to help!
+We’re happy to help! 
