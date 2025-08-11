@@ -22,9 +22,20 @@ Minimalist to-do app that helps you get things done without the clutter. With a 
 - 📄 [`info.md`](swiptic/info.md) – Overview of the app, features, and key functionality.
 - 📄 [`policy.md`](swiptic/policy.md) – App privacy policy and data usage statement.
 
+## 💊 MedicPing
+**Never miss a dose, stay safe with every pill.**  
+*Smart Pill Reminder & Inventory Tracking*
+
+Smart medication reminder app designed to help you manage your daily medications safely and effectively. With visual pill identification, drug interaction warnings, and timely notifications, MedicPing ensures you take the right medication at the right time.
+
+📱 Coming to App Store Soon!
+
+- 📄 [`info.md`](medicping/info.md) – Overview of the app, features, and key functionality.
+- 📄 [`policy.md`](medicping/policy.md) – App privacy policy and data usage statement.
+
 ---
 
-Both apps are designed for speed, accessibility, and clarity — no ads, no sign-up, and full privacy protection.
+All apps are designed for speed, accessibility, and clarity — no ads, no sign-up, and full privacy protection.
 
 Created with ❤️ to help people make smarter decisions and build better habits.
 
