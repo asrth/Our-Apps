@@ -28,10 +28,14 @@ Minimalist to-do app that helps you get things done without the clutter. With a 
 
 Smart medication reminder app designed to help you manage your daily medications safely and effectively. With visual pill identification, drug interaction warnings, and timely notifications, MedicPing ensures you take the right medication at the right time.
 
+⚠️ **Important:** MedicPing is a medication inventory management and reminder tool only. It is NOT medical advice and does not replace professional healthcare consultation.
+
 📱 Coming to App Store Soon!
 
 - 📄 [`info.md`](medicping/info.md) – Overview of the app, features, and key functionality.
 - 📄 [`policy.md`](medicping/policy.md) – App privacy policy and data usage statement.
+- 📄 [`terms-of-use.md`](medicping/terms-of-use.md) – Terms of Use and medical disclaimer (English).
+- 📄 [`terms-of-use-th.md`](medicping/terms-of-use-th.md) – ข้อกำหนดการใช้งาน (ภาษาไทย).
 
 ---
 

@@ -14,6 +14,8 @@ Deal Duel is a clean, efficient app designed to help you compare product prices 
   - **Light / Dark / System Display Mode**
   - **Font Size Options**: Smaller to Bigger
   - **Left- or Right-Handed Layout Support**
+  - **Multi-Language Support**: Available in 7 languages - English, Spanish (Español), Arabic (العربية), Hindi (हिन्दी), Japanese (日本語), Thai (ไทย), and Chinese (中文)
+  - **Multi-Currency Support**: 20+ currencies including USD, EUR, GBP, JPY, INR, SAR, and more
 - **Fast, No Sign-Up, No Ads**: Just input and compare.
 
 Deal Duel is designed for real-world use — with simplicity and customization at its core.
