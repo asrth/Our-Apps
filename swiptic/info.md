@@ -30,5 +30,5 @@ We're working hard to bring Swiptic to Android users. Our team is putting the fi
 ## Need Help?
 
 If you have any questions, feedback, or issues, feel free to reach out.  
-📩 **Support Email:** [tld.noreply@gmail.com](mailto:tld.noreply@gmail.com)  
+📩 **Support Email:** [support@asr.co.th](mailto:support@asr.co.th)  
 We're happy to help!

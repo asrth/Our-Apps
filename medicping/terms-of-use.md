@@ -124,7 +124,7 @@ These Terms shall be governed by and construed in accordance with the laws of Th
 For questions about these Terms of Use, please contact us at:
 
 **Advanced Software and Robotics Co., Ltd.**  
-Email: contact@asr.co.th  
+Email: support@asr.co.th  
 Website: https://app.asr.co.th
 
 ## 14. SEVERABILITY
