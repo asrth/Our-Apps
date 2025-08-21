@@ -1,7 +1,7 @@
 # Terms of Use - MedicPing
 
-**Effective Date: January 1, 2025**  
-**Last Updated: January 13, 2025**
+**Effective Date: August 1, 2025**  
+**Last Updated: August 20, 2025**
 
 ## 1. ACCEPTANCE OF TERMS
 
